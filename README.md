@@ -1,5 +1,5 @@
 # Dashboard_ult
-mobil application with android studio and SQLite database
+mobile application with android studio and SQLite database
 
 Student Crud :
   -listView
